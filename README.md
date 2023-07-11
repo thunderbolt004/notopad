@@ -8,7 +8,10 @@ run <b>./notopad</b><br/>
 put in path as per your choice<br/>
 
 <h2>Usage</h2>
-after app name, give it a username and any random pass(that feature isn't working yet), see vid<br/><br/>
+
+https://github.com/thunderbolt004/notopad/assets/100191701/15ea12c8-98db-45a2-a60f-f207b9623642
+
+after app name, give it a username and any random pass(that feature isn't working yet), see video below<br/><br/>
 
 i always thought backspace was too far, so now <b>lshift is backspace</b><br/>
 *note: i don't think this now, but too lazy to change<br/><br/>
@@ -23,3 +26,4 @@ with ctrl
 </ul>
 rshift + Up changes background<br/>
 see main.cpp for rest<br/>
+
